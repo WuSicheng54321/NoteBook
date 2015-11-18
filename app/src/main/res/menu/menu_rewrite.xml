@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.administrator.booknote.ReWriteActivity">
+    <item
+        android:id="@+id/ab_delect_rewrite"
+        android:orderInCategory="100"
+        android:icon="@drawable/icon_delect"
+        android:title="action_search"
+        app:showAsAction="ifRoom"/>
+    <!--<item-->
+        <!--android:id="@+id/action_settings_rewrite"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="设置"-->
+        <!--app:showAsAction="never"/>-->
+</menu>

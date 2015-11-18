@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.administrator.booknote.NewActivity">
+    <item
+        android:id="@+id/ab_save_new"
+        android:orderInCategory="100"
+        android:icon="@drawable/icon_save"
+        android:title="action_save"
+        app:showAsAction="ifRoom"/>
+</menu>
