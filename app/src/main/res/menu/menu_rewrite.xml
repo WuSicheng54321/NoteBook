@@ -8,9 +8,4 @@
         android:icon="@drawable/icon_delect"
         android:title="action_search"
         app:showAsAction="ifRoom"/>
-    <!--<item-->
-        <!--android:id="@+id/action_settings_rewrite"-->
-        <!--android:orderInCategory="100"-->
-        <!--android:title="设置"-->
-        <!--app:showAsAction="never"/>-->
 </menu>
